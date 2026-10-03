@@ -1,6 +1,6 @@
 import React from 'react'
-import ContactComp from '../Components/ContactComp.jsx'
-import TopBanner from '../Components/TopBanner.jsx'
+import ContactComp from '../components/ContactComp.jsx'
+import TopBanner from '../components/TopBanner.jsx'
 
 const Contact = () => {
   return (

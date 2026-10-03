@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
-import TopBanner from '../Components/TopBanner'
+import TopBanner from '../components/TopBanner'
 import trip from '../assets/trip.gif'
 import time from '../assets/fire-time.gif'
 import price from '../assets/best-price.gif'

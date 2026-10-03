@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
-import TopBanner from '../Components/TopBanner'
+import TopBanner from '../components/TopBanner'
 import Bali from '../assets/Bali.jpg'
 import Paris from '../assets/Paris.jpg'
 import Tokyo from '../assets/Tokyo.jpg'

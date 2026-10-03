@@ -1,10 +1,10 @@
 import React from 'react'
-import Hero from '../Components/Hero'
-import FeatureDestination from '../Components/FeatureDestination'
-import  Features  from '../Components/Features'
-import GalleryComp from '../Components/GalleryComp'
-import Banner from '../Components/Banner'
-import Contact from '../Components/ContactComp'
+import Hero from '../components/Hero'
+import FeatureDestination from '../components/FeatureDestination'
+import  Features  from '../components/Features'
+import GalleryComp from '../components/GalleryComp'
+import Banner from '../components/Banner'
+import Contact from '../components/ContactComp'
 const Home = () => {
   
   return (
